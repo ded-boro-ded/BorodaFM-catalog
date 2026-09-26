@@ -1,0 +1,1917 @@
+{
+  "schema": 1,
+  "version": 1790453870,
+  "updatedAt": "2026-09-26T20:17:50Z",
+  "stations": [
+    {
+      "id": "europaplus",
+      "name": "Европа Плюс",
+      "streams": [
+        "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
+        "https://ep128.hostingradio.ru:8030/ep128"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://www.europaplus.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://ep256.hostingradio.ru:8052/europaplus256.mp3"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://ep128.hostingradio.ru:8030/ep128"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://ep128.hostingradio.ru:8030/ep128"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "radiorecord",
+      "name": "Radio Record",
+      "streams": [
+        "https://radiorecord.hostingradio.ru/rr_main96.aacp"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": "https://www.radiorecord.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": []
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/rr_main96.aacp"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/rr_main96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "avtoradio_ru",
+      "name": "Авторадио",
+      "streams": [
+        "https://pub0101.101.ru/stream/air/aac/64/100"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://www.avtoradio.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://pub0101.101.ru/stream/air/aac/64/100"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://pub0101.101.ru/stream/air/aac/64/100"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://pub0101.101.ru/stream/air/aac/64/100"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "retrofm_ru",
+      "name": "Ретро FM",
+      "streams": [
+        "http://retroserver.streamr.ru:8043/retro256.mp3",
+        "http://retroserver.streamr.ru:8043/retro128"
+      ],
+      "genre": "Ретро",
+      "logoUrl": "https://www.retrofm.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "http://retroserver.streamr.ru:8043/retro256.mp3"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "http://retroserver.streamr.ru:8043/retro128"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "http://retroserver.streamr.ru:8043/retro128"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "dfm_ru",
+      "name": "DFM",
+      "streams": [
+        "https://dfm.hostingradio.ru/dfm96.aacp"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": "https://www.dfm.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://dfm.hostingradio.ru/dfm96.aacp"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://dfm.hostingradio.ru/dfm96.aacp"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://dfm.hostingradio.ru/dfm96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "chanson",
+      "name": "Радио Шансон",
+      "streams": [
+        "https://chanson.hostingradio.ru:8041/chanson256.mp3",
+        "https://chanson.hostingradio.ru:8041/chanson128.mp3"
+      ],
+      "genre": "Шансон",
+      "logoUrl": "https://www.chanson.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://chanson.hostingradio.ru:8041/chanson256.mp3"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://chanson.hostingradio.ru:8041/chanson128.mp3"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://chanson.hostingradio.ru:8041/chanson128.mp3"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "nashe",
+      "name": "Наше Радио",
+      "streams": [
+        "https://nashe1.hostingradio.ru/nashe-256",
+        "https://nashe1.hostingradio.ru/nashe-128.mp3"
+      ],
+      "genre": "Рок",
+      "logoUrl": "https://www.nashe.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://nashe1.hostingradio.ru/nashe-256"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://nashe1.hostingradio.ru/nashe-128.mp3"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://nashe1.hostingradio.ru/nashe-128.mp3"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "hitfm",
+      "name": "Хит FM",
+      "streams": [
+        "https://hitfm.hostingradio.ru/hitfm96.aacp"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://www.hitfm.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://hitfm.hostingradio.ru/hitfm96.aacp"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://hitfm.hostingradio.ru/hitfm96.aacp"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://hitfm.hostingradio.ru/hitfm96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "dorognoe",
+      "name": "Дорожное радио",
+      "streams": [
+        "https://dorognoe.hostingradio.ru:8000/radio"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://www.dorognoe.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://dorognoe.hostingradio.ru:8000/radio"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://dorognoe.hostingradio.ru:8000/radio"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://dorognoe.hostingradio.ru:8000/radio"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "vanya",
+      "name": "Радио Ваня",
+      "streams": [
+        "https://icecast-radiovanya.cdnvideo.ru/radiovanya"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://www.radiovanya.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://icecast-radiovanya.cdnvideo.ru/radiovanya"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://icecast-radiovanya.cdnvideo.ru/radiovanya"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://icecast-radiovanya.cdnvideo.ru/radiovanya"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "maximum",
+      "name": "Радио Maximum",
+      "streams": [
+        "https://maximum.hostingradio.ru/maximum128.mp3",
+        "https://maximum.hostingradio.ru/maximum96.aacp"
+      ],
+      "genre": "Рок",
+      "logoUrl": "https://www.maximum.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://maximum.hostingradio.ru/maximum128.mp3"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://maximum.hostingradio.ru/maximum96.aacp"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://maximum.hostingradio.ru/maximum96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "relaxfm",
+      "name": "Relax FM",
+      "streams": [
+        "https://pub0101.101.ru/stream/air/aac/64/200"
+      ],
+      "genre": "Инструментальная",
+      "logoUrl": "https://www.relaxfm.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://pub0101.101.ru/stream/air/aac/64/200"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://pub0101.101.ru/stream/air/aac/64/200"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://pub0101.101.ru/stream/air/aac/64/200"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "detskoe",
+      "name": "Детское радио",
+      "streams": [
+        "https://pub0101.101.ru/stream/air/aac/64/199"
+      ],
+      "genre": "Детское",
+      "logoUrl": "https://www.detskoe.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://pub0101.101.ru/stream/air/aac/64/199"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://pub0101.101.ru/stream/air/aac/64/199"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://pub0101.101.ru/stream/air/aac/64/199"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "comedy",
+      "name": "Comedy Radio",
+      "streams": [
+        "https://pub0101.101.ru/stream/air/aac/64/202"
+      ],
+      "genre": "Юмор",
+      "logoUrl": "https://www.comedyradio.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://pub0101.101.ru/stream/air/aac/64/202"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://pub0101.101.ru/stream/air/aac/64/202"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://pub0101.101.ru/stream/air/aac/64/202"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "rockfm",
+      "name": "Rock FM",
+      "streams": [
+        "https://nashe1.hostingradio.ru/rock-128.mp3"
+      ],
+      "genre": "Рок",
+      "logoUrl": "https://www.rockfm.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://nashe1.hostingradio.ru/rock-128.mp3"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://nashe1.hostingradio.ru/rock-128.mp3"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://nashe1.hostingradio.ru/rock-128.mp3"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "ultra",
+      "name": "Радио Ultra",
+      "streams": [
+        "https://nashe1.hostingradio.ru/ultra-192.mp3",
+        "https://nashe1.hostingradio.ru/ultra-128.mp3"
+      ],
+      "genre": "Рок",
+      "logoUrl": "https://www.ultra.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://nashe1.hostingradio.ru/ultra-192.mp3"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://nashe1.hostingradio.ru/ultra-128.mp3"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://nashe1.hostingradio.ru/ultra-128.mp3"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "montecarlo",
+      "name": "Монте-Карло Gold",
+      "streams": [
+        "https://montecarlo.hostingradio.ru/montecarlo96.aacp"
+      ],
+      "genre": "Ретро",
+      "logoUrl": "https://www.montecarlo.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://montecarlo.hostingradio.ru/montecarlo96.aacp"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://montecarlo.hostingradio.ru/montecarlo96.aacp"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://montecarlo.hostingradio.ru/montecarlo96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "record_rus",
+      "name": "Record Russian Mix",
+      "streams": [
+        "https://radiorecord.hostingradio.ru/rus96.aacp"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": "https://www.radiorecord.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/rus96.aacp"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/rus96.aacp"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/rus96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "record_gold",
+      "name": "Record Gold",
+      "streams": [
+        "https://radiorecord.hostingradio.ru/gold96.aacp"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": "https://www.radiorecord.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/gold96.aacp"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/gold96.aacp"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/gold96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "record_rock",
+      "name": "Record Rock",
+      "streams": [
+        "https://radiorecord.hostingradio.ru/rock96.aacp"
+      ],
+      "genre": "Рок",
+      "logoUrl": "https://www.radiorecord.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/rock96.aacp"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/rock96.aacp"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/rock96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "record_chill",
+      "name": "Record Chill-Out",
+      "streams": [
+        "https://radiorecord.hostingradio.ru/chil96.aacp"
+      ],
+      "genre": "Инструментальная",
+      "logoUrl": "https://www.radiorecord.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/chil96.aacp"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/chil96.aacp"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/chil96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "keksfm",
+      "name": "Кекс FM",
+      "streams": [
+        "https://dorognoe.hostingradio.ru/keksfm64.aac"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://www.keksfm.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://dorognoe.hostingradio.ru/keksfm64.aac"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://dorognoe.hostingradio.ru/keksfm64.aac"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://dorognoe.hostingradio.ru/keksfm64.aac"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "maximum90",
+      "name": "Maximum 90-е",
+      "streams": [
+        "https://maximum.hostingradio.ru/maximum128.mp3",
+        "https://maximum.hostingradio.ru/maximum9096.aacp"
+      ],
+      "genre": "Ретро",
+      "logoUrl": "https://www.maximum.ru/upload/medialibrary/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://maximum.hostingradio.ru/maximum128.mp3"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://maximum.hostingradio.ru/maximum9096.aacp"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://maximum.hostingradio.ru/maximum9096.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "alfaradio_by",
+      "name": "Альфа Радио",
+      "streams": [
+        "https://stream.sb.by/alpha"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://www.radiogrom.com/paint_new/logo_belarus_fm/alfa-radio-belarus-2020.jpg",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://stream.sb.by/alpha"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://stream.sb.by/alpha"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://stream.sb.by/alpha"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "radiominsk_by",
+      "name": "Радио Минск",
+      "streams": [
+        "https://radio.mk.by:8443/radiominsk"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://www.radiogrom.com/paint_new/logo_belarus_fm/radio_minsk_92_4_logo_2016.jpg",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radio.mk.by:8443/radiominsk"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://radio.mk.by:8443/radiominsk"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://radio.mk.by:8443/radiominsk"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "legendyfm_by",
+      "name": "Легенды FM",
+      "streams": [
+        "http://live.legendy.by:8000/legendyfm"
+      ],
+      "genre": "Ретро",
+      "logoUrl": "https://www.radiogrom.com/paint_new/logo_belarus_fm/radio_legendy_fm_minsk.jpg",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "http://live.legendy.by:8000/legendyfm"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "http://live.legendy.by:8000/legendyfm"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "http://live.legendy.by:8000/legendyfm"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "yumorfm_by",
+      "name": "Юмор FM Беларусь",
+      "streams": [
+        "https://live.humorfm.by:8443/veseloeradio",
+        "https://live.humorfm.by:8443/veseloeradio"
+      ],
+      "genre": "Юмор",
+      "logoUrl": "https://www.radiogrom.com/paint_new/logo_belarus_fm/yumor_minsk.jpg",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://live.humorfm.by:8443/veseloeradio"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://live.humorfm.by:8443/veseloeradio"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://live.humorfm.by:8443/veseloeradio"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "avtoradio_by",
+      "name": "Авторадио Беларусь",
+      "streams": [
+        "https://live.humorfm.by:8443/avtoradio"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://www.radiogrom.com/paint_new/logo/avtoradio_minsk_mini.gif",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://live.humorfm.by:8443/avtoradio"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": []
+        },
+        {
+          "quality": "low",
+          "urls": []
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "novoeradio_by",
+      "name": "Новое Радио Беларусь",
+      "streams": [
+        "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://www.radiogrom.com/paint_new/logo/novoe_radio_new_big_m.jpg",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "russkoeradio_by",
+      "name": "Русское Радио Беларусь",
+      "streams": [
+        "https://stream.rusradio.by:8443/live128",
+        "https://rusradio.hostingradio.ru/rusradio96.aacp"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://www.radiogrom.com/paint_new/logo/russkoe_radio_minsk_big3_m.jpg",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://stream.rusradio.by:8443/live128"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://rusradio.hostingradio.ru/rusradio96.aacp"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://rusradio.hostingradio.ru/rusradio96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "minskayavolna_by",
+      "name": "Минская Волна",
+      "streams": [
+        "https://stream2.datacenter.by/mvradio"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://minskavolna.by/templates/mv/images/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://stream2.datacenter.by/mvradio"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://stream2.datacenter.by/mvradio"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://stream2.datacenter.by/mvradio"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "narodnoe_by",
+      "name": "Народное Радио",
+      "streams": [
+        "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://narodnoeradio.by/templates/narodnoe/images/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "relax_by",
+      "name": "Радыё Relax",
+      "streams": [
+        "http://live.humorfm.by:8000/radiorelax",
+        "https://radiorecord.hostingradio.ru/chil96.aacp"
+      ],
+      "genre": "Инструментальная",
+      "logoUrl": "https://relaxfm.by/templates/relax/images/logo.png",
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "http://live.humorfm.by:8000/radiorelax",
+            "https://radiorecord.hostingradio.ru/chil96.aacp"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "http://live.humorfm.by:8000/radiorelax",
+            "https://radiorecord.hostingradio.ru/chil96.aacp"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "http://live.humorfm.by:8000/radiorelax",
+            "https://radiorecord.hostingradio.ru/chil96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "retro70",
+      "name": "Ретро FM 70-е",
+      "streams": [
+        "http://retro70.hostingradio.ru:8025/retro70-128.mp3"
+      ],
+      "genre": "Ретро",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "http://retro70.hostingradio.ru:8025/retro70-128.mp3"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "dacha",
+      "name": "Радио Дача",
+      "streams": [
+        "https://listen2.vdfm.ru:8000/dacha"
+      ],
+      "genre": "Поп",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://listen2.vdfm.ru:8000/dacha"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "eldoradio",
+      "name": "Эльдорадио",
+      "streams": [
+        "https://emgspb.hostingradio.ru/eldoradio128.mp3"
+      ],
+      "genre": "Поп",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://emgspb.hostingradio.ru/eldoradio128.mp3"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "radio7",
+      "name": "Радио 7",
+      "streams": [
+        "https://radio7.hostingradio.ru:8040/radio7128.mp3",
+        "https://radio7.hostingradio.ru:8040/radio7256.mp3"
+      ],
+      "genre": "Поп",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radio7.hostingradio.ru:8040/radio7128.mp3",
+            "https://radio7.hostingradio.ru:8040/radio7256.mp3"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "medlyak",
+      "name": "Медляк FM",
+      "streams": [
+        "https://radiorecord.hostingradio.ru/mdl96.aacp"
+      ],
+      "genre": "Ретро",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/mdl96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "naftalin",
+      "name": "Нафталин FM",
+      "streams": [
+        "https://radiorecord.hostingradio.ru/naft96.aacp"
+      ],
+      "genre": "Ретро",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/naft96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "vesnushka",
+      "name": "Веснушка FM",
+      "streams": [
+        "https://radiorecord.hostingradio.ru/deti96.aacp"
+      ],
+      "genre": "Детское",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/deti96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "symphony",
+      "name": "Симфония FM",
+      "streams": [
+        "https://radiorecord.hostingradio.ru/symph96.aacp"
+      ],
+      "genre": "Классика",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/symph96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "deephouse",
+      "name": "Deep House",
+      "streams": [
+        "https://radiorecord.hostingradio.ru/deep96.aacp"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/deep96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "rusrock",
+      "name": "Русский Рок",
+      "streams": [
+        "http://rock.volna.top/RusRock"
+      ],
+      "genre": "Рок",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "http://rock.volna.top/RusRock"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "ruspesni",
+      "name": "Русские Песни",
+      "streams": [
+        "http://listen.rusongs.ru/ru-mp3-128"
+      ],
+      "genre": "Шансон",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "http://listen.rusongs.ru/ru-mp3-128"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "disco8090",
+      "name": "Дискотека 80-х и 90-х",
+      "streams": [
+        "https://radiorecord.hostingradio.ru/sd9096.aacp"
+      ],
+      "genre": "Ретро",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radiorecord.hostingradio.ru/sd9096.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "jazzfm",
+      "name": "Джаз FM",
+      "streams": [
+        "https://jfm1.hostingradio.ru:14536/ijstream.mp3"
+      ],
+      "genre": "Джаз",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://jfm1.hostingradio.ru:14536/ijstream.mp3"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "spokoinoe",
+      "name": "Спокойное радио",
+      "streams": [
+        "https://listen9.myradio24.com/6262"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://listen9.myradio24.com/6262"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "dfm_diskach",
+      "name": "DFM Дискач 90-х",
+      "streams": [
+        "https://dfm-disc90.hostingradio.ru/disc9096.aacp"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://dfm-disc90.hostingradio.ru/disc9096.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "dfm_rusdance",
+      "name": "DFM Russian Dance",
+      "streams": [
+        "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "studio21",
+      "name": "STUDIO 21",
+      "streams": [
+        "https://stream.studio21.ru/studio2196.aacp",
+        "http://icecast-studio21.cdnvideo.ru/S21cl_1r"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://stream.studio21.ru/studio2196.aacp",
+            "http://icecast-studio21.cdnvideo.ru/S21cl_1r"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "loveis",
+      "name": "Love Is Radio",
+      "streams": [
+        "https://myradio24.org/3355"
+      ],
+      "genre": "Поп",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://myradio24.org/3355"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "kompas",
+      "name": "Компас FM",
+      "streams": [
+        "https://radio.mil.by/live"
+      ],
+      "genre": "Разговорное",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radio.mil.by/live"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "vatican",
+      "name": "Ватыканскае радыё",
+      "streams": [
+        "https://radio.vaticannews.va/stream-be"
+      ],
+      "genre": "Религиозное",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radio.vaticannews.va/stream-be"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "romantic_chanson",
+      "name": "Романтический шансон",
+      "streams": [
+        "https://rusradio.hostingradio.ru/rusradio96.aacp"
+      ],
+      "genre": "Шансон",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://rusradio.hostingradio.ru/rusradio96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "novoe_megamix",
+      "name": "Новое радио MegaMix",
+      "streams": [
+        "https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "novoe_fresh",
+      "name": "Новое радио Fresh",
+      "streams": [
+        "https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "radiusfm",
+      "name": "РадиусFM",
+      "streams": [
+        "http://media2.datacenter.by:8002/radiusfm_main"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "http://media2.datacenter.by:8002/radiusfm_main"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "dushevnoe",
+      "name": "Душевное радио",
+      "streams": [
+        "https://stream2.datacenter.by/dushevnoe"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://stream2.datacenter.by/dushevnoe"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "vitebsk",
+      "name": "Радио Витебск",
+      "streams": [
+        "https://stream2.datacenter.by/vtvby"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://stream2.datacenter.by/vtvby"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "brest",
+      "name": "Радио Брест",
+      "streams": [
+        "https://stream2.datacenter.by/trkbrest",
+        "http://178.124.131.35:8012/trkbrest"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://stream2.datacenter.by/trkbrest",
+            "http://178.124.131.35:8012/trkbrest"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "centrfm",
+      "name": "Центр FM",
+      "streams": [
+        "https://stream2.datacenter.by/stream"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://stream2.datacenter.by/stream"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "maryia",
+      "name": "Радыё Марыя",
+      "streams": [
+        "https://server.radiorm.by:8443/live"
+      ],
+      "genre": "Религиозное",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://server.radiorm.by:8443/live"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "rusradio_minsk",
+      "name": "Русское радио Минск",
+      "streams": [
+        "https://stream.rusradio.by:8443/live128",
+        "https://rusradio.hostingradio.ru/rusradio96.aacp"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://stream.rusradio.by:8443/live128",
+            "https://rusradio.hostingradio.ru/rusradio96.aacp"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "liderfm_by",
+      "name": "Lider FM",
+      "streams": [
+        "https://icecast.lider-fm.by/liderfm"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://icecast.lider-fm.by/liderfm"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "gorodfm_brest",
+      "name": "Город FM Брест",
+      "streams": [
+        "https://stream2.datacenter.by/GorodFM"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://stream2.datacenter.by/GorodFM"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "mogilev",
+      "name": "Радио Могилёв",
+      "streams": [
+        "https://stream2.datacenter.by/tvrmogilev"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://stream2.datacenter.by/tvrmogilev"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "svoyoradio",
+      "name": "Своё Радио",
+      "streams": [
+        "https://live.svoyoradio.by:8443/svoyoradio"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://live.svoyoradio.by:8443/svoyoradio"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "mfm_by",
+      "name": "MFM Belarus",
+      "streams": [
+        "https://radio.105fm.by/radio.105.0mfm"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radio.105fm.by/radio.105.0mfm"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "zefirfm",
+      "name": "Zefir FM",
+      "streams": [
+        "https://stream2.datacenter.by/zefirfm"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://stream2.datacenter.by/zefirfm"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "baranovichi_fm",
+      "name": "Барановичи FM",
+      "streams": [
+        "http://radio.100fm.by:8000/100fm128"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "http://radio.100fm.by:8000/100fm128"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "alesia",
+      "name": "Radio ALESIA",
+      "streams": [
+        "https://air.alesia.live/alesia"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://air.alesia.live/alesia"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "retro_by",
+      "name": "Retro Belarus",
+      "streams": [
+        "https://air.sammit.tv:8443/retro"
+      ],
+      "genre": "Ретро",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://air.sammit.tv:8443/retro"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "euroradio_by",
+      "name": "Еўрарадыё",
+      "streams": [
+        "http://stream1.euroradio.fm:8000/euroradio1"
+      ],
+      "genre": "Беларусь",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "http://stream1.euroradio.fm:8000/euroradio1"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "radio_roks",
+      "name": "Радио ROKS",
+      "streams": [
+        "https://stream.roks.com:8443/live256"
+      ],
+      "genre": "Рок",
+      "logoUrl": null,
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "radio_skif",
+      "name": "Radio Skif",
+      "streams": [
+        "http://178.172.150.248:2530/"
+      ],
+      "genre": "Поп",
+      "logoUrl": null,
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "wgfm_trance",
+      "name": "WGFM-Trance",
+      "streams": [
+        "https://sv.netradio.by/1/128"
+      ],
+      "genre": "Разное",
+      "logoUrl": null,
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    }
+  ]
+}
