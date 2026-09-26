@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1790464509,
-  "updatedAt": "2026-09-26T23:15:09Z",
+  "version": 1790466438,
+  "updatedAt": "2026-09-26T23:47:18Z",
   "stations": [
     {
       "id": "europaplus",
@@ -1954,6 +1954,32 @@
       ],
       "genre": "Классика",
       "logoUrl": null,
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "staryy_mayak",
+      "name": "Старый Маяк",
+      "streams": [
+        "https://yacht-radio.lv:1175/stream"
+      ],
+      "genre": "Разное",
+      "logoUrl": "https://i.etsystatic.com/34399975/r/il/46739a/5733038281/il_fullxfull.5733038281_i9e4.jpg",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "radiogora_oldies",
+      "name": "RadioGora Oldies",
+      "streams": [
+        "https://listen.radiogora.ru:8443/oldies128"
+      ],
+      "genre": "Разное",
+      "logoUrl": "https://play-lh.googleusercontent.com/Vd-p183tJgqqMItXw9fjlxWfikFO-eLh3pi1_JJAqdbysAYD7rKDZaRR-pE3nrA7LrXE",
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
