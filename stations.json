@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1790458221,
-  "updatedAt": "2026-09-26T21:30:21Z",
+  "version": 1790464509,
+  "updatedAt": "2026-09-26T23:15:09Z",
   "stations": [
     {
       "id": "europaplus",
@@ -1942,6 +1942,19 @@
           ]
         }
       ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "radio_dlya_vzroslyh",
+      "name": "РАДИО ДЛЯ ВЗРОСЛЫХ",
+      "streams": [
+        "http://listen6.myradio24.com:9000/alex542888"
+      ],
+      "genre": "Классика",
+      "logoUrl": null,
+      "variants": [],
       "isFavorite": false,
       "isHidden": false,
       "isCustom": false
