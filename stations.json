@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1790466438,
-  "updatedAt": "2026-09-26T23:47:18Z",
+  "version": 1790467912,
+  "updatedAt": "2026-09-27T00:11:52Z",
   "stations": [
     {
       "id": "europaplus",
@@ -1980,6 +1980,19 @@
       ],
       "genre": "Разное",
       "logoUrl": "https://play-lh.googleusercontent.com/Vd-p183tJgqqMItXw9fjlxWfikFO-eLh3pi1_JJAqdbysAYD7rKDZaRR-pE3nrA7LrXE",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "marusya_fm",
+      "name": "Маруся ФМ",
+      "streams": [
+        "https://radio-holding.ru:9433/marusya_default"
+      ],
+      "genre": "Разное",
+      "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mzSoXvhzAphcGAk_fPKH3LOI6D0yd8Q3rP9lhhEI2CGgHk=s900-c-k-c0x00ffffff-no-rj",
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
