@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1790499484,
-  "updatedAt": "2026-09-27T08:58:04Z",
+  "version": 1790697369,
+  "updatedAt": "2026-09-29T15:56:09Z",
   "stations": [
     {
       "id": "europaplus",
@@ -1952,7 +1952,7 @@
       "streams": [
         "http://listen6.myradio24.com:9000/alex542888"
       ],
-      "genre": "Классика",
+      "genre": "Шансон",
       "logoUrl": null,
       "variants": [],
       "isFavorite": false,
