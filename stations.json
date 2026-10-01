@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1790697369,
-  "updatedAt": "2026-09-29T15:56:09Z",
+  "version": 1790866092,
+  "updatedAt": "2026-10-01T14:48:12Z",
   "stations": [
     {
       "id": "europaplus",
@@ -1878,11 +1878,31 @@
       "id": "radio_roks",
       "name": "Радио ROKS",
       "streams": [
-        "https://stream.roks.com:8443/live256"
+        "https://online.radioroks.ua/RadioROKS_HD",
+        "https://online.radioroks.ua/RadioROKS"
       ],
       "genre": "Рок",
       "logoUrl": null,
-      "variants": [],
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://online.radioroks.ua/RadioROKS_HD"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://online.radioroks.ua/RadioROKS"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://online.radioroks.ua/RadioROKS"
+          ]
+        }
+      ],
       "isFavorite": false,
       "isHidden": false,
       "isCustom": false
@@ -1895,7 +1915,32 @@
       ],
       "genre": "Поп",
       "logoUrl": null,
-      "variants": [],
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "http://178.172.150.248:2530/",
+            "https://backup-high-1.example.invalid/radio_skif.mp3",
+            "https://backup-high-2.example.invalid/radio_skif.mp3"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "http://178.172.150.248:2530/",
+            "https://backup-medium-1.example.invalid/radio_skif.mp3",
+            "https://backup-medium-2.example.invalid/radio_skif.mp3"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "http://178.172.150.248:2530/",
+            "https://backup-low-1.example.invalid/radio_skif.mp3",
+            "https://backup-low-2.example.invalid/radio_skif.mp3"
+          ]
+        }
+      ],
       "isFavorite": false,
       "isHidden": false,
       "isCustom": false
@@ -1908,7 +1953,32 @@
       ],
       "genre": "Разное",
       "logoUrl": null,
-      "variants": [],
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://sv.netradio.by/1/128",
+            "https://backup-high-1.example.invalid/wgfm_trance.mp3",
+            "https://backup-high-2.example.invalid/wgfm_trance.mp3"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://sv.netradio.by/1/128",
+            "https://backup-medium-1.example.invalid/wgfm_trance.mp3",
+            "https://backup-medium-2.example.invalid/wgfm_trance.mp3"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://sv.netradio.by/1/128",
+            "https://backup-low-1.example.invalid/wgfm_trance.mp3",
+            "https://backup-low-2.example.invalid/wgfm_trance.mp3"
+          ]
+        }
+      ],
       "isFavorite": false,
       "isHidden": false,
       "isCustom": false
@@ -1954,7 +2024,32 @@
       ],
       "genre": "Шансон",
       "logoUrl": null,
-      "variants": [],
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "http://listen6.myradio24.com:9000/alex542888",
+            "https://backup-high-1.example.invalid/radio_dlya_vzroslyh.mp3",
+            "https://backup-high-2.example.invalid/radio_dlya_vzroslyh.mp3"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "http://listen6.myradio24.com:9000/alex542888",
+            "https://backup-medium-1.example.invalid/radio_dlya_vzroslyh.mp3",
+            "https://backup-medium-2.example.invalid/radio_dlya_vzroslyh.mp3"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "http://listen6.myradio24.com:9000/alex542888",
+            "https://backup-low-1.example.invalid/radio_dlya_vzroslyh.mp3",
+            "https://backup-low-2.example.invalid/radio_dlya_vzroslyh.mp3"
+          ]
+        }
+      ],
       "isFavorite": false,
       "isHidden": false,
       "isCustom": false
@@ -1967,7 +2062,32 @@
       ],
       "genre": "Разное",
       "logoUrl": "https://i.etsystatic.com/34399975/r/il/46739a/5733038281/il_fullxfull.5733038281_i9e4.jpg",
-      "variants": [],
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://yacht-radio.lv:1175/stream",
+            "https://backup-high-1.example.invalid/staryy_mayak.mp3",
+            "https://backup-high-2.example.invalid/staryy_mayak.mp3"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://yacht-radio.lv:1175/stream",
+            "https://backup-medium-1.example.invalid/staryy_mayak.mp3",
+            "https://backup-medium-2.example.invalid/staryy_mayak.mp3"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://yacht-radio.lv:1175/stream",
+            "https://backup-low-1.example.invalid/staryy_mayak.mp3",
+            "https://backup-low-2.example.invalid/staryy_mayak.mp3"
+          ]
+        }
+      ],
       "isFavorite": false,
       "isHidden": false,
       "isCustom": false
@@ -1980,7 +2100,32 @@
       ],
       "genre": "Разное",
       "logoUrl": "https://play-lh.googleusercontent.com/Vd-p183tJgqqMItXw9fjlxWfikFO-eLh3pi1_JJAqdbysAYD7rKDZaRR-pE3nrA7LrXE",
-      "variants": [],
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://listen.radiogora.ru:8443/oldies128",
+            "https://backup-high-1.example.invalid/radiogora_oldies.mp3",
+            "https://backup-high-2.example.invalid/radiogora_oldies.mp3"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://listen.radiogora.ru:8443/oldies128",
+            "https://backup-medium-1.example.invalid/radiogora_oldies.mp3",
+            "https://backup-medium-2.example.invalid/radiogora_oldies.mp3"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://listen.radiogora.ru:8443/oldies128",
+            "https://backup-low-1.example.invalid/radiogora_oldies.mp3",
+            "https://backup-low-2.example.invalid/radiogora_oldies.mp3"
+          ]
+        }
+      ],
       "isFavorite": false,
       "isHidden": false,
       "isCustom": false
@@ -1993,7 +2138,32 @@
       ],
       "genre": "Разное",
       "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mzSoXvhzAphcGAk_fPKH3LOI6D0yd8Q3rP9lhhEI2CGgHk=s900-c-k-c0x00ffffff-no-rj",
-      "variants": [],
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://radio-holding.ru:9433/marusya_default",
+            "https://backup-high-1.example.invalid/marusya_fm.mp3",
+            "https://backup-high-2.example.invalid/marusya_fm.mp3"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://radio-holding.ru:9433/marusya_default",
+            "https://backup-medium-1.example.invalid/marusya_fm.mp3",
+            "https://backup-medium-2.example.invalid/marusya_fm.mp3"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://radio-holding.ru:9433/marusya_default",
+            "https://backup-low-1.example.invalid/marusya_fm.mp3",
+            "https://backup-low-2.example.invalid/marusya_fm.mp3"
+          ]
+        }
+      ],
       "isFavorite": false,
       "isHidden": false,
       "isCustom": false
