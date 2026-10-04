@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1791153525,
-  "updatedAt": "2026-10-04T22:38:45Z",
+  "version": 1791153583,
+  "updatedAt": "2026-10-04T22:39:43Z",
   "stations": [
     {
       "id": "europaplus",
@@ -1877,39 +1877,6 @@
     {
       "id": "radio_roks",
       "name": "Радио ROKS",
-      "streams": [
-        "https://online.radioroks.ua/RadioROKS_HD",
-        "https://online.radioroks.ua/RadioROKS"
-      ],
-      "genre": "Рок",
-      "logoUrl": null,
-      "variants": [
-        {
-          "quality": "high",
-          "urls": [
-            "https://online.radioroks.ua/RadioROKS_HD"
-          ]
-        },
-        {
-          "quality": "medium",
-          "urls": [
-            "https://online.radioroks.ua/RadioROKS"
-          ]
-        },
-        {
-          "quality": "low",
-          "urls": [
-            "https://online.radioroks.ua/RadioROKS"
-          ]
-        }
-      ],
-      "isFavorite": false,
-      "isHidden": false,
-      "isCustom": false
-    },
-    {
-      "id": "radio_roks_by",
-      "name": "Радио РОКС (Беларусь)",
       "streams": [
         "https://stream.roks.com/roks.m3u8",
         "https://stream.roks.com/aac_hifi.m3u8",
