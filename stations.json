@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1791142513,
-  "updatedAt": "2026-10-04T19:35:13Z",
+  "version": 1791150240,
+  "updatedAt": "2026-10-04T21:44:00Z",
   "stations": [
     {
       "id": "europaplus",
@@ -1908,6 +1908,40 @@
       "isCustom": false
     },
     {
+      "id": "radio_roks_by",
+      "name": "Радио РОКС (Беларусь)",
+      "streams": [
+        "https://stream.roks.com/roks.m3u8",
+        "https://stream.roks.com/aac_hifi.m3u8",
+        "https://stream.roks.com/aac_lofi.m3u8"
+      ],
+      "genre": "Рок",
+      "logoUrl": null,
+      "variants": [
+        {
+          "quality": "high",
+          "urls": [
+            "https://stream.roks.com/aac_hifi.m3u8"
+          ]
+        },
+        {
+          "quality": "medium",
+          "urls": [
+            "https://stream.roks.com/roks.m3u8"
+          ]
+        },
+        {
+          "quality": "low",
+          "urls": [
+            "https://stream.roks.com/aac_lofi.m3u8"
+          ]
+        }
+      ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
       "id": "radio_skif",
       "name": "Radio Skif",
       "streams": [
@@ -2201,7 +2235,33 @@
         "http://iskatel.hostingradio.ru:8015/iskatel-128.mp3"
       ],
       "genre": "Разное",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/ru/2/28/Iskatel-logo-colors.png",
+      "logoUrl": "https://avatars.yandex.net/get-music-content/6255016/01dcd12e.a.23326856-1/m1000x1000",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "radio_nostalzhi_rossiya",
+      "name": "Радио Ностальжи Россия",
+      "streams": [
+        "https://listen7.myradio24.com/alexx333"
+      ],
+      "genre": "Разное",
+      "logoUrl": "https://radiopotok.ru/f/station/512/638.png",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "dyadya_vanya_na_dache",
+      "name": "Дядя Ваня на даче",
+      "streams": [
+        "https://ic1.radiosignal.one/vanya-mp3"
+      ],
+      "genre": "Разное",
+      "logoUrl": "https://radiopotok.ru/f/station/512/1743.png",
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
