@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1791142438,
-  "updatedAt": "2026-10-04T19:33:58Z",
+  "version": 1791142513,
+  "updatedAt": "2026-10-04T19:35:13Z",
   "stations": [
     {
       "id": "europaplus",
@@ -2164,6 +2164,45 @@
           ]
         }
       ],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "shanson_bez_tsenzury",
+      "name": "Шансон без цензуры",
+      "streams": [
+        "http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3"
+      ],
+      "genre": "Разное",
+      "logoUrl": "https://www.eff.org/files/Button_Russian_white.png",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "mixadance",
+      "name": "Mixadance",
+      "streams": [
+        "https://stream.mixadance.fm/mixadance"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": "http://www.mixadance.fm/apple-touch-icon.png",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "iskatel",
+      "name": "Искатель",
+      "streams": [
+        "http://iskatel.hostingradio.ru:8015/iskatel-128.mp3"
+      ],
+      "genre": "Разное",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/ru/2/28/Iskatel-logo-colors.png",
+      "variants": [],
       "isFavorite": false,
       "isHidden": false,
       "isCustom": false
