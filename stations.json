@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1791156328,
-  "updatedAt": "2026-10-04T23:25:28Z",
+  "version": 1791156513,
+  "updatedAt": "2026-10-04T23:28:33Z",
   "stations": [
     {
       "id": "europaplus",
@@ -2228,7 +2228,7 @@
         "https://stream.mixadance.fm/mixadance"
       ],
       "genre": "Танцевальная",
-      "logoUrl": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts3/v4/aa/ca/bf/aacabf8f-f5a6-f489-09be-e1bec598f83e/mza_4754681632125642942.jpg/1200x630wp.png",
+      "logoUrl": "https://radiopotok.ru/f/station/512/208.png",
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
