@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1791154821,
-  "updatedAt": "2026-10-04T23:00:21Z",
+  "version": 1791156295,
+  "updatedAt": "2026-10-04T23:24:55Z",
   "stations": [
     {
       "id": "europaplus",
@@ -2215,7 +2215,7 @@
         "http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3"
       ],
       "genre": "Разное",
-      "logoUrl": "https://www.eff.org/files/Button_Russian_white.png",
+      "logoUrl": "https://топрадио.рф/files/seo_image/25/01/07/677d4c6ec36e2/shanson-bez-czenzuryi.jpg",
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
