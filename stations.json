@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1791150240,
-  "updatedAt": "2026-10-04T21:44:00Z",
+  "version": 1791151351,
+  "updatedAt": "2026-10-04T22:02:31Z",
   "stations": [
     {
       "id": "europaplus",
@@ -2203,32 +2203,6 @@
       "isCustom": false
     },
     {
-      "id": "shanson_bez_tsenzury",
-      "name": "Шансон без цензуры",
-      "streams": [
-        "http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3"
-      ],
-      "genre": "Разное",
-      "logoUrl": "https://www.eff.org/files/Button_Russian_white.png",
-      "variants": [],
-      "isFavorite": false,
-      "isHidden": false,
-      "isCustom": false
-    },
-    {
-      "id": "mixadance",
-      "name": "Mixadance",
-      "streams": [
-        "https://stream.mixadance.fm/mixadance"
-      ],
-      "genre": "Танцевальная",
-      "logoUrl": "http://www.mixadance.fm/apple-touch-icon.png",
-      "variants": [],
-      "isFavorite": false,
-      "isHidden": false,
-      "isCustom": false
-    },
-    {
       "id": "iskatel",
       "name": "Искатель",
       "streams": [
@@ -2262,6 +2236,32 @@
       ],
       "genre": "Разное",
       "logoUrl": "https://radiopotok.ru/f/station/512/1743.png",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "shanson_bez_tsenzury",
+      "name": "Шансон без цензуры",
+      "streams": [
+        "http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3"
+      ],
+      "genre": "Разное",
+      "logoUrl": "https://www.eff.org/files/Button_Russian_white.png",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "mixadance",
+      "name": "Mixadance",
+      "streams": [
+        "https://stream.mixadance.fm/mixadance"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts3/v4/aa/ca/bf/aacabf8f-f5a6-f489-09be-e1bec598f83e/mza_4754681632125642942.jpg/1200x630wp.png",
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
