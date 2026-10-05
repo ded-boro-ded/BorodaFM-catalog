@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1791218774,
-  "updatedAt": "2026-10-05T16:46:14Z",
+  "version": 1791243408,
+  "updatedAt": "2026-10-05T23:36:48Z",
   "stations": [
     {
       "id": "europaplus",
@@ -2242,6 +2242,45 @@
       ],
       "genre": "Разное",
       "logoUrl": "https://radiopotok.ru/f/station/512/2546.png",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "techno",
+      "name": "Techno",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/18"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": null,
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "saundtreki",
+      "name": "Саундтреки",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/25"
+      ],
+      "genre": "Разное",
+      "logoUrl": null,
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "rossiya_90_h",
+      "name": "Россия 90-х",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/33"
+      ],
+      "genre": "Ретро",
+      "logoUrl": null,
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
