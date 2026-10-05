@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1791244078,
-  "updatedAt": "2026-10-05T23:47:58Z",
+  "version": 1791244486,
+  "updatedAt": "2026-10-05T23:54:46Z",
   "stations": [
     {
       "id": "europaplus",
@@ -1883,7 +1883,7 @@
         "https://stream.roks.com/aac_lofi.m3u8"
       ],
       "genre": "Рок",
-      "logoUrl": "https://ded-boro-ded.github.io/BorodaFM-catalog/logos/radio_roks.png",
+      "logoUrl": null,
       "variants": [
         {
           "quality": "high",
@@ -2254,7 +2254,7 @@
         "https://srv01.gpmradio.ru/stream/pro/aac/64/18"
       ],
       "genre": "Танцевальная",
-      "logoUrl": "https://ded-boro-ded.github.io/BorodaFM-catalog/logos/techno.jpg",
+      "logoUrl": null,
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
@@ -2267,7 +2267,7 @@
         "https://srv01.gpmradio.ru/stream/pro/aac/64/25"
       ],
       "genre": "Разное",
-      "logoUrl": "https://ded-boro-ded.github.io/BorodaFM-catalog/logos/saundtreki.png",
+      "logoUrl": null,
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
@@ -2280,7 +2280,7 @@
         "https://srv01.gpmradio.ru/stream/pro/aac/64/33"
       ],
       "genre": "Ретро",
-      "logoUrl": "https://ded-boro-ded.github.io/BorodaFM-catalog/logos/rossiya_90_h.png",
+      "logoUrl": null,
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
