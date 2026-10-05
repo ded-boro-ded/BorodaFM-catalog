@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1791160638,
-  "updatedAt": "2026-10-05T00:37:18Z",
+  "version": 1791161151,
+  "updatedAt": "2026-10-05T00:45:51Z",
   "stations": [
     {
       "id": "europaplus",
@@ -2241,7 +2241,7 @@
         "https://srv01.gpmradio.ru/stream/pro/aac/64/7"
       ],
       "genre": "Разное",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/40/Jazz_Radio_Logo.png",
+      "logoUrl": "https://radiopotok.ru/f/station/512/2546.png",
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
