@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1791244486,
-  "updatedAt": "2026-10-05T23:54:46Z",
+  "version": 1791246090,
+  "updatedAt": "2026-10-06T00:21:30Z",
   "stations": [
     {
       "id": "europaplus",
@@ -2281,6 +2281,214 @@
       ],
       "genre": "Ретро",
       "logoUrl": null,
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "instrumental",
+      "name": "Instrumental",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/28"
+      ],
+      "genre": "Инструментальная",
+      "logoUrl": "https://cdnec4.101.ru/proxy/vardata/modules/channel/image/484740c16ace6a49c373f6832fe16423.jpg?w=300&h=300&pos=center&q=100&t=1668776604",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "zvuki_prirody",
+      "name": "Звуки Природы",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/32"
+      ],
+      "genre": "Разное",
+      "logoUrl": "https://cdnec3.101.ru/proxy/vardata/modules/channel/image/fa98e1f5997a82706c08060255ad97ad.png?w=300&h=300&pos=center&q=100&t=1562169450",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "vysotskiy",
+      "name": "Высоцкий",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/58"
+      ],
+      "genre": "Разное",
+      "logoUrl": "https://cdnec1.101.ru/proxy/vardata/modules/channel/image/1de362587fe4a94dc02c6a3a95d684e9.png?w=300&h=300&pos=center&q=100&t=1565608199",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "klassicheskaya_muzyka",
+      "name": "Классическая Музыка",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/98"
+      ],
+      "genre": "Классика",
+      "logoUrl": "https://cdnec1.101.ru/proxy/vardata/modules/channel/image/a8a530894e5dfadb31b092ccd9a12903.png?w=300&h=300&pos=center&q=100&t=1565608436",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "abba",
+      "name": "ABBA",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/104"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://cdnec3.101.ru/proxy/vardata/modules/channel/image/296e04f171392830df1ac1c183ea817f.png?w=300&h=300&pos=center&q=100&t=1565617025",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "depeche_mode",
+      "name": "Depeche Mode",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/105"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://cdnec1.101.ru/proxy/vardata/modules/channel/image/7eeb2f4860de4a03bdcf6dc195088df2.png?w=300&h=300&pos=center&q=100&t=1565608474",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "mihail_krug",
+      "name": "Михаил Круг",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/110"
+      ],
+      "genre": "Шансон",
+      "logoUrl": "https://cdnec0.101.ru/proxy/vardata/modules/channel/image/68279b03eb3b2bfbfdbe249a686b5007.jpg?w=300&h=300&pos=center&q=100&t=1669797716",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "modern_talking",
+      "name": "Modern Talking",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/115"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://cdnec0.101.ru/proxy/vardata/modules/channel/image/d48662c7b190a9462bbc2737b863e07c.png?w=300&h=300&pos=center&q=100&t=1565617073",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "metallica",
+      "name": "Metallica",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/123"
+      ],
+      "genre": "Рок",
+      "logoUrl": "https://cdnec2.101.ru/proxy/vardata/modules/channel/image/a33e9c24b93601dd7841aa0e071d89f6.png?w=300&h=300&pos=center&q=100&t=1565608633",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "dubstep",
+      "name": "DubStep",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/136"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": "https://cdnec5.101.ru/proxy/vardata/modules/channel/image/41719dffbc98e37985fe1acfb956ba84.png?w=300&h=300&pos=center&q=100&t=1562169553",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "diskoteka_sssr",
+      "name": "Дискотека СССР",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/144"
+      ],
+      "genre": "Ретро",
+      "logoUrl": "https://cdnec2.101.ru/proxy/vardata/modules/channel/image/a8e76116dc5982dd473eedcfb7c0ca49.png?w=300&h=300&pos=center&q=100&t=1773318474",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "ruki_vverh",
+      "name": "Руки Вверх!",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/163"
+      ],
+      "genre": "Поп",
+      "logoUrl": "https://cdnec1.101.ru/proxy/vardata/modules/channel/image/f62c0756d33dfa420622050ddeebb342.png?w=300&h=300&pos=center&q=100&t=1565608880",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "korol_i_shut",
+      "name": "Король и Шут",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/191"
+      ],
+      "genre": "Рок",
+      "logoUrl": "https://cdnec0.101.ru/proxy/vardata/modules/channel/image/d0a7aa8d531fc7f0fe49ba70b4f6400b.png?w=300&h=300&pos=center&q=100&t=1565608962",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "stendapy",
+      "name": "Стендапы",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/245"
+      ],
+      "genre": "Юмор",
+      "logoUrl": null,
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "zumba",
+      "name": "Zumba",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/259"
+      ],
+      "genre": "Танцевальная",
+      "logoUrl": "https://cdnec1.101.ru/proxy/vardata/modules/channel/image/b7848a4129631dc66242011a8ce8114c.png?w=300&h=300&pos=center&q=100&t=1574858147",
+      "variants": [],
+      "isFavorite": false,
+      "isHidden": false,
+      "isCustom": false
+    },
+    {
+      "id": "muzyka_futbola",
+      "name": "Музыка футбола",
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/pro/aac/64/280"
+      ],
+      "genre": "Разное",
+      "logoUrl": "https://cdnec5.101.ru/proxy/vardata/modules/channel/image/3523de0520a70267c0ec82964939876a.png?w=300&h=300&pos=center&q=100&t=1562855821",
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
