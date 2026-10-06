@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": 1791246090,
-  "updatedAt": "2026-10-06T00:21:30Z",
+  "version": 1791246456,
+  "updatedAt": "2026-10-06T00:27:36Z",
   "stations": [
     {
       "id": "europaplus",
@@ -2254,7 +2254,7 @@
         "https://srv01.gpmradio.ru/stream/pro/aac/64/18"
       ],
       "genre": "Танцевальная",
-      "logoUrl": null,
+      "logoUrl": "https://cdnec4.101.ru/proxy/vardata/modules/channel/image/07bc3156f26f9a088516efcfc74dfb44.jpg?w=300&h=300&pos=center&q=100&t=1773149743",
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
@@ -2267,7 +2267,7 @@
         "https://srv01.gpmradio.ru/stream/pro/aac/64/25"
       ],
       "genre": "Разное",
-      "logoUrl": null,
+      "logoUrl": "https://cdnec4.101.ru/proxy/vardata/modules/channel/image/7e8dc7a54c3c24000b67c212a27cd141.png?w=300&h=300&pos=center&q=100&t=1562169397",
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
@@ -2280,7 +2280,7 @@
         "https://srv01.gpmradio.ru/stream/pro/aac/64/33"
       ],
       "genre": "Ретро",
-      "logoUrl": null,
+      "logoUrl": "https://cdnec0.101.ru/proxy/vardata/modules/channel/image/6d13a565586f16be5b12b4bf477c700a.png?w=300&h=300&pos=center&q=100&t=1574857317",
       "variants": [],
       "isFavorite": false,
       "isHidden": false,
